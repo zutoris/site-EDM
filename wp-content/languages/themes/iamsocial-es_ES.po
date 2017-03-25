@@ -1,0 +1,428 @@
+# Translation of Themes - IAMSocial in Spanish (Spain)
+# This file is distributed under the same license as the Themes - IAMSocial package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-18 10:26:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - IAMSocial\n"
+
+#. Description of the plugin/theme
+msgid "IAMSocial WordPress Theme wants to give the opportunity to small businesses owners and young entrepreneurs to create a simple, but modern looking website, and to easily connect their social media. IAMSocial is customizable, intuitive, easy to use, and responsive. It includes features that extend WordPress capabilities: users can create their own slider and choose from sets of colors and fonts to customize their design. IAMSocial supports internationalization and RTL formats and respects web standards and accessibility."
+msgstr "IAMSocial quiere dar una oportunidad a pequeños negocios y comerciantes de crear un sitio simple pero moderno y de conectar de manera rápida sus páginas de redes sociales. IAMSocial es personalizable, intuitivo, fácil de usar y se adapta a todos los tamaños de pantalla. Incluye opciones que extiendan las capabilidades de WordPress: los usuarios pueden crear su propio slider y elegir combinaciones diferentes de colores y fuentes para acercarse a su imagen de marca. IAMSocial es un tema internacional que suporta diferentes alfabetos como los formatos RTL sin que el diseño se rompe. Ademas IAMSocial respeta los estándares de web y accesibilidad de manera que su sitio se leerá correctamente por todos los tipos de usuarios."
+
+#. Theme Name of the plugin/theme
+msgid "IAMSocial"
+msgstr "IAMSocial"
+
+#: part-content.php:25
+msgid "Read More"
+msgstr "Leer más"
+
+#: footer.php:63
+msgid "<a href=\"%1$s\" target=\"_blank\">IAMSocial</a>, a WordPress Theme by <a href=\"%2$s\" target=\"_blank\">@aicragellebasi</a>"
+msgstr "<a href=\"%1$s\" target=\"_blank\">IAMSocial</a>, un tema de WordPress de <a href=\"%2$s\" target=\"_blank\">@aicragellebasi</a>"
+
+#. Template Name of the plugin/theme
+msgid "Full Width Template"
+msgstr "Plantilla a pantalla completa"
+
+#: part-slider.php:49
+msgid "Previous"
+msgstr "Atrás"
+
+#: part-slider.php:25 part-slider.php:33 part-slider.php:41
+msgid "change your caption in the admin"
+msgstr "Cambie su leyenda en el admin"
+
+#: part-content.php:97
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Lo sentimos, pero estás buscando algo que no está aquí."
+
+#: part-content.php:96
+msgid "Not Found"
+msgstr "No se encontró"
+
+#: part-content.php:88
+msgid "Newer Posts"
+msgstr "Artículos siguientes"
+
+#: part-content.php:87
+msgid "Older Posts"
+msgstr "Artículos antiguos"
+
+#: part-content.php:82
+msgid "Newer Entries"
+msgstr "Nuevas entradas"
+
+#: part-content.php:81
+msgid "Older Entries"
+msgstr "Entradas antiguas"
+
+#: part-content.php:77 part-slider.php:53
+msgid "Next"
+msgstr "próximo"
+
+#: part-content.php:76
+msgid "Prev"
+msgstr "Previa"
+
+#: part-content.php:60
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: part-content.php:59
+msgid "Next page"
+msgstr "Próxima página"
+
+#: part-content.php:53
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: part-content.php:31
+msgid "Posted in"
+msgstr "Publicado en"
+
+#: header.php:118
+msgid "Toggle navigation"
+msgstr "Cambiar navegación"
+
+#: header.php:100
+msgid "Logo"
+msgstr "Logo"
+
+#: functions.php:144
+msgid "Use this widget area to customize your right footer"
+msgstr "Usa esta zona de widget para personalizar tu pie de página derecha"
+
+#: functions.php:142
+msgid "Footer widgets right"
+msgstr "Widgets para el pie de página derecho "
+
+#: functions.php:129
+msgid "Use this widget area to customize your middle footer"
+msgstr "Use este widget para personalizar la parte central del pie de página "
+
+#: functions.php:127
+msgid "Footer widgets middle"
+msgstr "Widgets para el centro del pie de página"
+
+#: functions.php:114
+msgid "Use this widget area to customize your left footer"
+msgstr "Use este widget para personalizar la parte izquierda del pie de página"
+
+#: functions.php:112
+msgid "Footer widgets left"
+msgstr "Widgets para el pie de página izquierdo"
+
+#: functions.php:99
+msgid "Add widgets here. Recommended: Search bar or Custom menu. Note: It is recommended to use only one widget in this area. If this widget area is empty, by default, the search bar is shown."
+msgstr "Añade widget aqui. Recomendados: barra de busqueda o menu. Nota: Se recomienda usar solamente un widget en esta zona. Si se queda vacillo, por defecto se mostrará la barra de navegación."
+
+#: functions.php:97
+msgid "Top bar widgets"
+msgstr "Widget para la barra superior"
+
+#: functions.php:84
+msgid "Add widgets here and these will appear on the side of any default page or post. Ideal for listing pages, archives or recent posts."
+msgstr "Añade su widgets aquí y estos aparecerán al lado de cualquier página o articulo. Ideal para listar páginas, archivos or articulos recientes."
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:54
+msgid "Footer Menu Center"
+msgstr "Menú central del pie"
+
+#: functions.php:53
+msgid "Footer Menu Right"
+msgstr "Menú derecho del pie"
+
+#: functions.php:52
+msgid "Footer Menu Left"
+msgstr "Menú izquierdo del pie"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: comments.php:41
+msgid "Next Comments"
+msgstr "Siguientes"
+
+#: comments.php:40
+msgid "Previous Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:28
+msgid "Reply"
+msgstr "Respuesta"
+
+#: admin/iamsocial-customizer.php:481
+msgid "forest"
+msgstr "bosque"
+
+#: admin/iamsocial-customizer.php:472
+msgid "sunrise"
+msgstr "salida del sol"
+
+#: admin/iamsocial-customizer.php:463
+msgid "ocean"
+msgstr "oceano"
+
+#: admin/iamsocial-customizer.php:454
+msgid "green complementary"
+msgstr "verde complementario"
+
+#: admin/iamsocial-customizer.php:445
+msgid "orange complementary"
+msgstr "naranja complementario"
+
+#: admin/iamsocial-customizer.php:436
+msgid "blue complementary"
+msgstr "azul complementario"
+
+#: admin/iamsocial-customizer.php:410
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: admin/iamsocial-customizer.php:392
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/iamsocial-customizer.php:375
+msgid "Youtube"
+msgstr "Youtube"
+
+#: admin/iamsocial-customizer.php:357
+msgid "Linkedin"
+msgstr "LinkedIn"
+
+#: admin/iamsocial-customizer.php:339
+msgid "Instagram"
+msgstr "Instagram"
+
+#: admin/iamsocial-customizer.php:321
+msgid "Googleplus"
+msgstr "Googleplus"
+
+#: admin/iamsocial-customizer.php:303
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/iamsocial-customizer.php:285
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/iamsocial-customizer.php:280
+msgid "Link your website to your social media"
+msgstr "Enlace su website con sus redes sociales"
+
+#: admin/iamsocial-customizer.php:279
+msgid "IAMSocial Social Media Icons"
+msgstr "Redes sociales"
+
+#: admin/iamsocial-customizer.php:264
+msgid "3rd slide caption color"
+msgstr "Color de la diapositiva 3"
+
+#: admin/iamsocial-customizer.php:253
+msgid "3rd slide link"
+msgstr "Enlace de la diapositiva 3"
+
+#: admin/iamsocial-customizer.php:242
+msgid "3rd slide caption"
+msgstr "Leyenda de la diapositiva 3"
+
+#: admin/iamsocial-customizer.php:230
+msgid "3rd slide image"
+msgstr "Imagen de la diapositiva 3"
+
+#: admin/iamsocial-customizer.php:217
+msgid "2nd slide caption color"
+msgstr "Color de la diapositiva 2"
+
+#: admin/iamsocial-customizer.php:206
+msgid "2nd slide link"
+msgstr "Enlace de la diapositiva 2"
+
+#: admin/iamsocial-customizer.php:195
+msgid "2nd slide caption"
+msgstr "Leyenda de la diapositiva 2"
+
+#: admin/iamsocial-customizer.php:183
+msgid "2nd slide image"
+msgstr "Imágen de la diapositiva 2"
+
+#: admin/iamsocial-customizer.php:173 admin/iamsocial-customizer.php:220
+#: admin/iamsocial-customizer.php:267
+msgid "Change the color of the caption text"
+msgstr "Cambie el color de la leyenda"
+
+#: admin/iamsocial-customizer.php:170
+msgid "1st slide caption color"
+msgstr "Color de texto de la diapositiva 1"
+
+#: admin/iamsocial-customizer.php:162 admin/iamsocial-customizer.php:209
+#: admin/iamsocial-customizer.php:256
+msgid "i.e: http://www.yourdomain.com/linktopost/"
+msgstr "ex: http://www.sudominio.es/enlacedelpost/"
+
+#: admin/iamsocial-customizer.php:159
+msgid "1st slide link"
+msgstr "Enlace de la diapositiva 1"
+
+#: admin/iamsocial-customizer.php:151 admin/iamsocial-customizer.php:198
+#: admin/iamsocial-customizer.php:245
+msgid "Leave blank if no caption wanted"
+msgstr "Deje vacillo si no desea leyenda"
+
+#: admin/iamsocial-customizer.php:148
+msgid "1st slide caption"
+msgstr "Leyenda de la diapositiva 1"
+
+#: admin/iamsocial-customizer.php:139 admin/iamsocial-customizer.php:186
+#: admin/iamsocial-customizer.php:233
+msgid "recommended size: 960x345px"
+msgstr "Tamaño recomendado: 960x345px"
+
+#: admin/iamsocial-customizer.php:136
+msgid "1st slide image"
+msgstr "Imágen de la diapositiva 1"
+
+#: admin/iamsocial-customizer.php:125
+msgid "3rd Slide Settings"
+msgstr "Configuración de la diapositiva 3"
+
+#: admin/iamsocial-customizer.php:120
+msgid "2nd Slide Settings"
+msgstr "Configuración de la diapositiva 2"
+
+#: admin/iamsocial-customizer.php:115
+msgid "1st Slide Settings"
+msgstr "Configuración de la diapositiva 1"
+
+#: admin/iamsocial-customizer.php:110
+msgid "Update and edit up to three slides"
+msgstr "Sube y configura hasta 3 diapositivas"
+
+#: admin/iamsocial-customizer.php:109
+msgid "IAMSocial Slider"
+msgstr "Slider de IAMSocial"
+
+#: admin/iamsocial-customizer.php:95
+msgid "change the font of your paragraphs and buttons"
+msgstr "Cambie la fuente de sus parágrafos y de sus botones"
+
+#: admin/iamsocial-customizer.php:91
+msgid "Change the font of your paragraphs"
+msgstr "Cambie la fuente de sus parágrafos"
+
+#: admin/iamsocial-customizer.php:83
+msgid "change the font of your main titles"
+msgstr "Cambie la fuente de sus títulos principales"
+
+#: admin/iamsocial-customizer.php:79
+msgid "Change the font of your titles"
+msgstr "Cambie la fuente de sus títulos"
+
+#: admin/iamsocial-customizer.php:64
+msgid "IAMSocial Fonts"
+msgstr "Fuentes de IAMSocial"
+
+#: admin/iamsocial-customizer.php:60
+msgid "Shadow"
+msgstr "Sombra"
+
+#: admin/iamsocial-customizer.php:59
+msgid "Quicksand"
+msgstr "Quicksand"
+
+#: admin/iamsocial-customizer.php:58
+msgid "Oswald"
+msgstr "Oswald"
+
+#: admin/iamsocial-customizer.php:57
+msgid "Open Sans Condensed"
+msgstr "Open Sans Condensed"
+
+#: admin/iamsocial-customizer.php:56
+msgid "News Cycle"
+msgstr "News Cycle"
+
+#: admin/iamsocial-customizer.php:55
+msgid "Abel"
+msgstr "Abel"
+
+#: admin/iamsocial-customizer.php:45
+msgid "Eco Entrepreneur"
+msgstr "Entreprenario Ecolo"
+
+#: admin/iamsocial-customizer.php:44
+msgid "Zen Entrepreneur"
+msgstr "Entreprenario Zen"
+
+#: admin/iamsocial-customizer.php:43
+msgid "Expert Entrepreneur"
+msgstr "Entreprenario Experto"
+
+#: admin/iamsocial-customizer.php:42
+msgid "Risky Entrepreneur"
+msgstr "Entreprenario Ariezgado"
+
+#: admin/iamsocial-customizer.php:41
+msgid "Young Entrepreneur"
+msgstr "Jóven Entreprenario"
+
+#: admin/iamsocial-customizer.php:40
+msgid "Social Entrepreneur"
+msgstr "Entreprenario Sociable"
+
+#: admin/iamsocial-customizer.php:35
+msgid "Change the colors of your theme"
+msgstr "Cambie los colores de su template"
+
+#: admin/iamsocial-customizer.php:26
+msgid "Choose one color theme to change the look and feel of your site"
+msgstr "Elije una combinación de colores para cambiar la aparencia de su sitio"
+
+#: admin/iamsocial-customizer.php:23
+msgid "IAMSocial Colors"
+msgstr "Colores de IAMSocial"
+
+#: admin/iamsocial-customizer.php:19
+msgid "Change your colors and fonts"
+msgstr "Cambie sus colores y fuentes"
+
+#: admin/iamsocial-customizer.php:18
+msgid "IAMSocial General Settings"
+msgstr "Configuraciones de IAMSocial"
+
+#: 404.php:16
+msgid "Try again."
+msgstr "Intentelo nuevamente."
+
+#: 404.php:16
+msgid "We cannot find what you are looking for."
+msgstr "no se encuentra lo que esta buscando."
+
+#: 404.php:15
+msgid "Oops..."
+msgstr "Uups"
+
+#. Author URI of the plugin/theme
+msgid "http://isabellegarcia.me/"
+msgstr "http://isabellegarcia.me/"
+
+#. Author of the plugin/theme
+msgid "Isabelle Garcia"
+msgstr "Isabelle García"
+
+#. Theme URI of the plugin/theme
+msgid "http://isabellegarcia.me/iamsocial"
+msgstr "http://isabellegarcia.me/iamsocial"

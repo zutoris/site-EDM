@@ -1,0 +1,157 @@
+# Translation of Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-12 12:16:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "Devin Price"
+msgstr "Devin Price"
+
+#. Description of the plugin/theme
+msgid "A framework for building theme options."
+msgstr "Uma framework para criar opções de temas."
+
+#: includes/class-options-framework-admin.php:64
+msgid "Your current theme does not have support for the Options Framework plugin.  <a href=\"%1$s\" target=\"_blank\">Learn More</a> | <a href=\"%2$s\">Hide Notice</a>"
+msgstr "O seu tema actual não suporta o plugin Options Framework.  <a href=\"%1$s\" target=\"_blank\">Saber Mais</a> | <a href=\"%2$s\">Esconder notificação</a>"
+
+#: includes/class-options-framework-admin.php:121
+#: includes/class-options-framework-admin.php:122
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: includes/class-options-framework-admin.php:240
+msgid "Save Options"
+msgstr "Guardar opções"
+
+#: includes/class-options-framework-admin.php:241
+msgid "Restore Defaults"
+msgstr "Restaurar predefinições"
+
+#: includes/class-options-framework-admin.php:241
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Clique em OK para restaurar. Todas as opções do tema serão perdidas!"
+
+#: includes/class-options-framework-admin.php:272
+msgid "Default options restored."
+msgstr "Opções predefinidas restauradas."
+
+#: includes/class-options-framework-admin.php:326
+msgid "Options saved."
+msgstr "Opções guardadas."
+
+#: includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr "Nenhum ficheiro escolhido."
+
+#: includes/class-options-media-uploader.php:66
+#: includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr "Carregar"
+
+#: includes/class-options-media-uploader.php:68
+#: includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr "Remover"
+
+#: includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Actualize a sua versão do WordPress para suporte completo de multimédia."
+
+#: includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr "Ver ficheiro"
+
+#: includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr "Não repetir"
+
+#: includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr "Repetir horizontalmente"
+
+#: includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr "Repetir verticalmente"
+
+#: includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr "Repetir todos"
+
+#: includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr "Topo à esquerda"
+
+#: includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr "Topo ao centro"
+
+#: includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Topo à direita"
+
+#: includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr "Meio à esquerda"
+
+#: includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr "Meio ao centro"
+
+#: includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr "Meio à direita"
+
+#: includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr "Fundo à esquerda"
+
+#: includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr "Fundo ao centro"
+
+#: includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr "Fundo à direita"
+
+#: includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr "Fluir normalmente"
+
+#: includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr "Fixo"
+
+#: includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr "Itálico"
+
+#: includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Negrito"
+
+#: includes/class-options-sanitization.php:427
+msgid "Bold Italic"
+msgstr "Itálico Negrito"
+
+#. Plugin Name of the plugin/theme
+msgid "Options Framework"
+msgstr "Options Framework"
+
+#. #-#-#-#-#  tmp-options-framework.pot (Options Framework 1.8.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-options-framework.pot (Options Framework 1.8.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://wptheming.com"
+msgstr "http://wptheming.com"
