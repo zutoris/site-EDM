@@ -8,7 +8,7 @@
  */
 ?>
 	<?php if ( have_posts() ) : ?>
-	<?php while ( have_posts() ) : the_post(); ?>
+	<?php for ($i = 1; have_posts() && ($i <= 3); $i++) : the_post(); ?>
 		<?php if ( ! ( is_single() || is_page()) ) { ?><div class="masonry-layout__panel"><?php } ?><!--Mansory Layout fix: wrap each article-->
 			<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 				<h2>
@@ -68,7 +68,7 @@
 		}
 		?>
 		<?php comments_template(); ?>
-		<?php endwhile; ?>
+		<?php endfor; ?>
 		<?php  if ( ! is_page() ) {  ?>
 			<?php  if ( is_single() ) {  ?>
 				<article id="single">
